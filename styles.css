@@ -1,0 +1,93 @@
+* {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    margin-left: 16px;
+    margin-right: 277px;
+    margin-top: 128px;
+    margin-bottom: 12px;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 400;
+    width: 343px;
+    height: 52px;
+    display: block;
+    margin-left: 16px;
+    line-height: 26px;
+    padding-bottom: 102px;
+    color:gray;
+}
+
+.personal-mail {
+    display: block;
+    background: #F2F2F7;
+    border-radius: 6px;
+    border: none;
+    width: 343px;
+    height: 48px;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    padding-left: 14px;
+    margin-top: 102px;
+}
+
+.password {
+    display: block;
+    background: #F2F2F7;
+    border-radius: 6px;
+    border: none;
+    width: 343px;
+    height: 48px;
+    font-size: 16px;
+    margin: 0 auto;
+    padding-left: 14px;
+
+}
+
+.password-forget {
+    margin-left: 245px;
+    margin-right: 16px;
+    height: 22px;
+    color:deepskyblue;
+    font-weight:500;
+    margin-top: 17px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    line-height: 22px;
+}
+
+button {
+    width: 343px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+    height: 48px;
+    margin-left: 32px;
+    }
+
+.link-sign-up {
+    display: block;
+    margin-top: 230px;
+    margin-left: 75px;
+   font-weight: 500;
+   font-size: 16px;
+}
+
+strong {
+    font-family: raleway;
+    font-weight: 600;
+    color:deepskyblue;
+    font-size: 16px;
+}
